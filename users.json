@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Carrol",
+    "last_name": "De Francisci",
+    "email": "cdefrancisci0@about.me",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Niko",
+    "last_name": "Willox",
+    "email": "nwillox1@latimes.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Adriano",
+    "last_name": "Boraston",
+    "email": "aboraston2@sun.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Karna",
+    "last_name": "Langdale",
+    "email": "klangdale3@vkontakte.ru",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Wolf",
+    "last_name": "Linacre",
+    "email": "wlinacre4@topsy.com",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Timotheus",
+    "last_name": "Baszniak",
+    "email": "tbaszniak5@php.net",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Adda",
+    "last_name": "Farquharson",
+    "email": "afarquharson6@surveymonkey.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Reggie",
+    "last_name": "Archbould",
+    "email": "rarchbould7@blogs.com",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 9,
+    "first_name": "Rheba",
+    "last_name": "Dalwood",
+    "email": "rdalwood8@ycombinator.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Jodie",
+    "last_name": "Hampshire",
+    "email": "jhampshire9@google.es",
+    "gender": "Male"
+  }
+]
